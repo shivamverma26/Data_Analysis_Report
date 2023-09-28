@@ -1,4 +1,4 @@
-# Data Analysis Project with Power BI
+# Data Analysis Project with Power BI and Jupyter Notebook
 
 ## Overview
 
