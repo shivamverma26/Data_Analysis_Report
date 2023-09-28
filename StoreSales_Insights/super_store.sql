@@ -1,0 +1,1 @@
+SELECT count(*) FROM super_stores.`superstore sales dataset`;
