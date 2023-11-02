@@ -14,6 +14,6 @@ The results are a testament to our commitment: informed decision-making, improve
 
 This project underscores the paramount importance of data-driven decision-making and highlights the potential of Power BI to deliver tangible results. It's not just a project; it's a dedication to excellence in this data-driven era. 🌐
 
-![Dashboard](https://github.com/shivamverma26/Data_Analysis_Report/assets/94590743/a8984fa0-1efe-4353-9dee-70595d8b2ed3)
+<img width="800" alt="dashboard" src="https://github.com/shivamverma26/Data_Analysis_Report/assets/94590743/2ebb12cb-b169-458d-81a3-0e791b888507">
+<img width="800" alt="Sales_Insights" src="https://github.com/shivamverma26/Data_Analysis_Report/assets/94590743/9b5ca199-7aa2-4fa6-86ea-876e1bdcd22b">
 
-![Sales Forecast](https://github.com/shivamverma26/Data_Analysis_Report/assets/94590743/8072161a-276c-4aad-b596-035611b5f801)
